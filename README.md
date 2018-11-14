@@ -10,10 +10,35 @@ goals for this project include the following:
 
 ## Code
 
+The code in this repo contains the analysis tools for congressional speech data from hein-online. 
+
+## Data 
+
+The data we're using is a preprocessed set of congressional speech data provided by Matthew
+Gentzkow, Jesse Shapiro, and Matt Taddy. The data contains conressional speeches from the 43rd 
+to the 114th sessions of Congress from both the bound and daily editions. Thankfully, Gentzkow,
+Shapiro, and Taddy provides us with a lot of useful metadata, and makes our development experience
+a lot easier.   
+
+Link: [Congressional Record for the 43rd-114th Congresses: Parsed Speeches and Phrase Counts](https://data.stanford.edu/congress_text)  
+Citation: Gentzkow, Matthew, Jesse M. Shapiro, and Matt Taddy. Congressional Record for the 43rd-114th Congresses: Parsed Speeches and Phrase Counts. Palo Alto, CA: Stanford Libraries [distributor], 2018-01-16. https://data.stanford.edu/congress\_text  
+
+The data originially comes from Hein Online, an online data resource that provides scans of the 
+Congressional Record to the public.  
+
+Link: [Hein-Online](https://home.heinonline.org/content/u-s-congressional-documents/)   
 
 ## Wiki
+Our Wiki provides a semi-accurate timeline of the work and research being completed for this
+project.  
 
-
-## TODO
-
+## TODO   
+1. Implement Cross-Validation 
+	- compare cross-validated models with the models that already exist
+	- check out perplexity
+2. Create different models to compare to the Naive Bayes classifier  
+	- SVM, Deceision Tree, NN  
+	- Compare results and reasons for using each    
+3. Modularize code and make runnable for different situations/create playbook  
+4. Incorporate a visualization tool  
 
