@@ -21,7 +21,7 @@ Shapiro, and Taddy provides us with a lot of useful metadata, and makes our deve
 a lot easier.   
 
 Link: [Congressional Record for the 43rd-114th Congresses: Parsed Speeches and Phrase Counts](https://data.stanford.edu/congress_text)  
-Citation: Gentzkow, Matthew, Jesse M. Shapiro, and Matt Taddy. Congressional Record for the 43rd-114th Congresses: Parsed Speeches and Phrase Counts. Palo Alto, CA: Stanford Libraries [distributor], 2018-01-16. https://data.stanford.edu/congress\_text  
+Citation: Gentzkow, Matthew, Jesse M. Shapiro, and Matt Taddy. Congressional Record for the 43rd-114th Congresses: Parsed Speeches and Phrase Counts. Palo Alto, CA: Stanford Libraries [distributor], 2018-01-16.   
 
 The data originially comes from Hein Online, an online data resource that provides scans of the 
 Congressional Record to the public.  
